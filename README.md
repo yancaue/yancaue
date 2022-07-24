@@ -2,7 +2,7 @@
 - 👀 I’m interested in how to solve problems that are based in analysis.
 - 🌱 I’m currently learning advanced skills to get the most of my performance, with reports, management systems, and on demand analysis
 - 💞️ I’m looking to collaborate on it with great features that could be useful on our working routine. 
-- 📫 You guys can reach here or by e-mail yancaue.sb@outlook.com, I'm always tunned. 
+- 📫 You guys can reach me here or by e-mail yancaue.sb@outlook.com, I'm always tunned. 
 
 <!---
 yancaue/yancaue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
